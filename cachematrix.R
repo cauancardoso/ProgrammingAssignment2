@@ -4,7 +4,7 @@
 ## pass it to the the makeCacheMatrix() function. This will create 
 ## an R object that stores a matrix and its inverse. Next, pass 
 ## your object to the cacheSolve() function. This will retrieve 
-## the the inverse from the cached value that is stored in the 
+## the inverse from the cached value that is stored in the 
 ## makeCacheMatrix() object's environment.
 
 ## makeCacheMatrix: This function creates a special "matrix" object,
